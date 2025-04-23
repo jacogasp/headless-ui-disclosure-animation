@@ -9,7 +9,7 @@ export default function Drawer() {
         </DisclosureButton>
         <DisclosurePanel
           transition
-          className="bg-slate-200 fixed inset-0 w-80 mt-16 easy-in-out data-[closed]:-translate-x-full data-[closed]:bg-red-300 duration-2000"
+          className="bg-slate-200 fixed inset-0 w-80 mt-16 ease-in-out data-[closed]:-translate-x-full data-[closed]:bg-red-300 duration-2000"
         >
           Hello
         </DisclosurePanel>
